@@ -6,13 +6,13 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/	22dcjdr3vl6xqrlnmrzscml5y)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22dcjdr3vl6xqrlnmrzscml5y)
 <br/>
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FMHenriqueMF)](https://github.com/FMHenriqueMF/github-readme-stats)
 -->
 
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+# Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
