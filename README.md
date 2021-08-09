@@ -4,12 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMHenriqueMF&exclude_repo=github-readme-stats,FMHenriqueMF.github.io&theme=dark)](https://github.com/FMHenriqueMF/github-readme-stats)
 
 
-### Now Playing 🎧
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22dcjdr3vl6xqrlnmrzscml5y)
-<br/>
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FMHenriqueMF)](https://github.com/FMHenriqueMF/github-readme-stats)
--->
 
 
 # Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
