@@ -1,7 +1,12 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Control+and+Automation+Engineer+Student;Studying+Python;Photoshop+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FMHenriqueMF&theme=radical" alt="arunsridher" /></p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FMHenriqueMF&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FMHenriqueMF&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FMHenriqueMF&theme=radical" alt="arunsridher" /></p>
+
 
 
 
