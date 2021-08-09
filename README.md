@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMHenriqueMF&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMHenriqueMF&exclude_repo=github-readme-stats,FMHenriqueMF.github.io&theme=dark)](https://github.com/FMHenriqueMF/github-readme-stats)
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FMHenriqueMF&theme=radical" alt="arunsridher" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FMHenriqueMF&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FMHenriqueMF&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
